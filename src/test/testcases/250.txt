@@ -1,0 +1,8 @@
+type Student struct {
+            name : string;
+            age : int;
+        };
+
+        func createStudent() : Student {
+            return Student{name: "Alice", age: 20};
+        };

@@ -1,0 +1,3 @@
+type Transformer interface {
+            Transform<T>(input T) : T;
+        };

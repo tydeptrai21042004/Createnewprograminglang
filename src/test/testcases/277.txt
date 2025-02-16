@@ -1,0 +1,3 @@
+func main() {
+            var result : int = add(5 + 3, 10 * 2);
+        };

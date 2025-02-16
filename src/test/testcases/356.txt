@@ -1,0 +1,5 @@
+
+        type Matrix struct {
+            elements [10][10]float;
+        };
+        

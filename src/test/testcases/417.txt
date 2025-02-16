@@ -1,0 +1,7 @@
+type Data struct {
+            values [10]int;
+            nested struct {
+                names [5]string;
+                metrics [3][3]float;
+            };
+        };

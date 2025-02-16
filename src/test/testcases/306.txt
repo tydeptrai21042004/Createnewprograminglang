@@ -1,0 +1,7 @@
+func loop() {
+            for i := 0; i++ {
+                for j := 0; j++ {
+                    var x : int;
+                }
+            }
+        };

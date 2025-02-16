@@ -1,0 +1,8 @@
+
+        func nestedLoops() {
+            for i = 0; i < 10; i = i + 1 {
+                for j = 0; j < 5; j = j + 1 {
+                    var sum = i + j;
+                };
+            };
+        };

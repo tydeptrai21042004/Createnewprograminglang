@@ -1,0 +1,7 @@
+func add(x int, y int) : int {
+            return x + y;
+        };
+
+        func main() {
+            var result : int = add(3, 5);
+        };

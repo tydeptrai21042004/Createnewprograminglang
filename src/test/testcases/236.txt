@@ -1,0 +1,4 @@
+type Car struct 
+            model : string;
+            year : int;
+        ;

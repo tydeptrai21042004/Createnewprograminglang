@@ -1,0 +1,5 @@
+func outer() {
+            func inner() {
+                return 10;
+            };
+        };

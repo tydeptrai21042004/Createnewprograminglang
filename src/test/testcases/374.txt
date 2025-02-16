@@ -1,0 +1,5 @@
+
+        func empty() {
+            // This is an empty function
+        };
+        

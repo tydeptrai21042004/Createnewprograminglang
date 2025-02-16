@@ -1,0 +1,1 @@
+/* Multi-line comment */ var y float;

@@ -1,0 +1,9 @@
+func process() {
+            for i := 0; i < 5; i += 1 {
+                for j := i; j < 10; j += 2 {
+                    if (j % 2 == 0) {
+                        continue;
+                    }
+                }
+            }
+        };

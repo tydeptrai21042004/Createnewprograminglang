@@ -1,0 +1,7 @@
+
+        func shadow() {
+            var x int;
+            {
+                var x string;
+            };
+        };

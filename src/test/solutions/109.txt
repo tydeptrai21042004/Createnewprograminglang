@@ -1,0 +1,1 @@
+var,const,func,type,if,else,for,return,break,continue,true,false,nil,int,float,boolean,string,<EOF>

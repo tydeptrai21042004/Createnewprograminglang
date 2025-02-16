@@ -1,0 +1,5 @@
+
+        func toInt(value float) int {
+            return (value)int;
+        };
+        

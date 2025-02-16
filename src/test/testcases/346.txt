@@ -1,0 +1,4 @@
+
+        func mixLogic() {
+            var result = (a + b) * c && d || e;
+        };

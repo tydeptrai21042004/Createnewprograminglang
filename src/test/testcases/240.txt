@@ -1,0 +1,3 @@
+func foo() : unknownType {
+            return 10;
+        };

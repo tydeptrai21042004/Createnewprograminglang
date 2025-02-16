@@ -1,0 +1,5 @@
+func modifyArray() {
+            var numbers : [3] int;
+            numbers[0] := 100;
+            numbers[1] := numbers[0] + 20;
+        };

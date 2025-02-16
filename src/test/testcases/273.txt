@@ -1,0 +1,3 @@
+func checkCondition(x int, y int) : boolean {
+            return ((x > 10) && (y < 20)) || (x == y);
+        };

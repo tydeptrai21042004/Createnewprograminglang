@@ -1,0 +1,5 @@
+
+        func useLambda() {
+            var add = func(a int, b int) { return a + b; };
+        };
+        

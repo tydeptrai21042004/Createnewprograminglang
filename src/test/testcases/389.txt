@@ -1,0 +1,5 @@
+
+        func cast(value float) int {
+            return (value)int;
+        };
+        

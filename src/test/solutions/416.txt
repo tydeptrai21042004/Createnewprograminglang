@@ -1,0 +1,1 @@
+type,Person,struct,{,name,string,;,address,struct,{,city,string,;,coordinates,struct,{,latitude,float,;,longitude,float,;,},;,},;,},;,<EOF>

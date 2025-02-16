@@ -1,0 +1,2 @@
+type Car struct { model string; };
+                func (c Car) drive() {};

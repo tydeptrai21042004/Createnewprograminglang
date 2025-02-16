@@ -1,0 +1,7 @@
+
+        func repeat() {
+            do {
+                print("Repeating...");
+            } while (condition);
+        };
+        

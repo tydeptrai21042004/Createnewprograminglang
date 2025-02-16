@@ -1,0 +1,7 @@
+
+        func iterateArray(arr [5]int) {
+            foreach i in arr {
+                print(i);
+            };
+        };
+        

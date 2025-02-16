@@ -1,0 +1,4 @@
+func doSomething() {
+            var x : int = 10;
+            var y : float = 5.5;
+        };

@@ -1,0 +1,1 @@
+type,A,struct,{,field1,int,;,field2,struct,{,field3,float,;,field4,struct,{,field5,string,;,},;,},;,},;,<EOF>

@@ -1,0 +1,7 @@
+
+        func commentTest() {
+            /* This is a 
+               multiline comment */
+            var x int;
+        };
+        

@@ -1,0 +1,5 @@
+
+        func process() (int, string) {
+            return 42, 43;
+        };
+        

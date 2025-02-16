@@ -1,0 +1,1 @@
+func isEven(x int) boolean { return x % 2 == 0; };

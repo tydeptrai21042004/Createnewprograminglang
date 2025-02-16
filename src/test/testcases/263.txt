@@ -1,0 +1,3 @@
+func check() : boolean {
+            return (x > 10) && (y < 5;
+        };

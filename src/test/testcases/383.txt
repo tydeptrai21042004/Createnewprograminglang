@@ -1,0 +1,5 @@
+
+        func access(person Person) {
+            var city string = person.home.;
+        };
+        

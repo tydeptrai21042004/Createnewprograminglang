@@ -1,0 +1,1 @@
+/* Outer /* Inner */ Outer End */ var z int;

@@ -1,0 +1,4 @@
+type Shape interface {
+            Area() : float;
+            Perimeter() : float;
+        };

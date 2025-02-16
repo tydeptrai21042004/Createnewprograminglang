@@ -1,0 +1,5 @@
+
+        func unreachable() {
+            return 42;
+            var x int; // This is unreachable
+        };

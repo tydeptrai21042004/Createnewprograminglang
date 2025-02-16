@@ -1,0 +1,4 @@
+type Calculator interface {
+            Add(x int, y int) : int;
+            Subtract(a float, b int) : float;
+        };

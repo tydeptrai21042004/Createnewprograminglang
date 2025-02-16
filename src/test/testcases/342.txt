@@ -1,0 +1,4 @@
+
+        func check() {
+            if true {} else {};
+        };

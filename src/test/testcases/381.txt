@@ -1,0 +1,5 @@
+
+        func process(data []int) {
+            var sum int;
+        };
+        

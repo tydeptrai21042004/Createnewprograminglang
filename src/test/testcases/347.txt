@@ -1,0 +1,4 @@
+
+        func misplacedReturn() {
+            var x int return x;
+        };

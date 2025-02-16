@@ -1,0 +1,15 @@
+func check(x int) {
+            if (x > 0) {
+                if (x < 10) {
+                    if (x % 2 == 0) {
+                        return 1;
+                    } else {
+                        return 2;
+                    }
+                } else {
+                    return 3;
+                }
+            } else {
+                return 4;
+            }
+        };
